@@ -1,0 +1,4 @@
+spring:
+  redis:
+    host: 180.76.51.170
+    port: 7001
